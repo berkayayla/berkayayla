@@ -1,5 +1,5 @@
-## Hi there 👋
+## Hi there
 
-📝 I will regularly write about computers, operating systems, etc here.
+I will regularly write about computers, operating systems, etc here.
 
 
